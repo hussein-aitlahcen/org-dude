@@ -26,17 +26,17 @@
                      - [X] *functor*
                        - [X] simple
                          - [X] practical
-                         - [X] theory
+                         - [X] theory (basic)
                        - [X] *bifunctor*
                          - [X] practical
-                         - [X] theory
+                         - [X] theory (basic)
                        - [X] *profunctor*
                          - [X] practical
-                         - [X] theory
+                         - [X] theory (basic)
 
                      - [X] *applicative*
                        - [X] practical
-                       - [X] theory
+                       - [X] theory (basic)
 
                      - [X] *monads*
                        - [X] practical
