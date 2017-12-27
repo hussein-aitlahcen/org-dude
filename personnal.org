@@ -17,22 +17,38 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-***************** Haskel
-******************** Learn langage features
+***************** Haskel: learn langage features
+
+                     - [X] *monoid*
+                       - [X] practical
+                       - [X] theory
+
+                     - [X] *functor*
+                       - [X] simple
+                         - [X] practical
+                         - [X] theory
+                       - [X] *bifunctor*
+                         - [X] practical
+                         - [X] theory
+                       - [X] *profunctor*
+                         - [X] practical
+                         - [X] theory
+
+                     - [X] *applicative*
+                       - [X] practical
+                       - [X] theory
 
                      - [X] *monads*
                        - [X] practical
-                       - [X] theory (basic
+                       - [X] theory (basic)
 
                      - [-] *lenses*
-
                        - [X] practical
                        - [-] theory
                          - [X] basic
                          - [ ] advanced
 
                      - [ ] *dependent types*
-
                        - [ ] practical
                        - [ ] theory
                          - [ ] basic
